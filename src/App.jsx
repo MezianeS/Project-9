@@ -2,7 +2,12 @@
 function App() {
   return (
     <div className="bg-red-800">
-      App
+      Nav
+      Home
+      Stats
+      Business
+      Agency
+      Footer
     </div>
   )
 }
