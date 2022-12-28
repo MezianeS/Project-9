@@ -1,16 +1,19 @@
+import Navbar from './components/Components'
 
 function App() {
   return (
-    <div className="bg-primary w-full overflow-hidden">
-      <div className="home">
-        <h1>Title</h1>
+    <div className="w-full overflow-hidden">
+      <div className="home bg-primary">
+        <h1 className="text-4xl">Test.</h1>
+        <div className="">
+        <Navbar />
+        Home
+        Stats
+        Business
+        Agency
+        Footer
+        </div>
       </div>
-      Nav
-      Home
-      Stats
-      Business
-      Agency
-      Footer
     </div>
   )
 }
