@@ -15,8 +15,8 @@ const Navbar = () => {
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 8h16M4 16h16" />
                 </svg>
             </div>
-            <div className="fixed left-0 top-0 w-[60%] border-r border-r-gray-900">
-                <ul>
+            <div className="fixed left-0 top-0 w-[60%] border-r border-r-gray-900 h-full">
+                <ul className='pt-24 uppercase'>
                     <li className='p-4'><a href="#stats">Home</a></li>
                     <li className='p-4'><a href="#stats">Stats</a></li>
                     <li className='p-4'><a href="#business">Business</a></li>

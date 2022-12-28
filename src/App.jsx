@@ -1,4 +1,5 @@
-import Navbar from './components/Components'
+import Navbar from './components/Navbar/Navbar'
+import Index from './components/Index/Index'
 
 function App() {
   return (
@@ -6,6 +7,7 @@ function App() {
       <div className="bg-primary">
         <div className="home bg-primary flex justify-between p-5 px-10 mx-auto max-w-[1240px] items-center">
           <h1 className="text-4xl text-[#f89c92] font-bold tracking-wide">FUTURE.</h1>
+          <Index />
           <Navbar />
         </div>
       </div>

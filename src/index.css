@@ -16,6 +16,10 @@ body{
   min-width: 320px;
   min-height: 100vh;
 }
+
+.home{
+  height: 800px;
+}
 /*
 :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
