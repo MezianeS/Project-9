@@ -19,7 +19,7 @@ const Navbar = () => {
                 <li className='p-4'><a href="#agency">Agency</a></li>
                 <li className='p-4'><a href="#contact">Contact</a></li>
             </ul>
-            <div className='md:hidden' onClick={handleNav} > 
+            <div className='lg:hidden' onClick={handleNav} > 
                 {/* <label for="check">
                     <input type="checkbox" id="check"/> 
                     <span></span>
