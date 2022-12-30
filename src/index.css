@@ -20,6 +20,10 @@ body{
   height: 800px; 
 }
 
+.pnine__logo {
+  width: 180px;
+}
+
 /***CSS BURGER BUTTON***/
 label{
   display:flex;
