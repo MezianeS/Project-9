@@ -26,6 +26,26 @@ body{
 
 
 
+@media only screen and (min-width: 600px) {
+  .pnine__img--index img{
+    width: 70%;
+    margin: auto;
+  }
+}
+
+
+@media only screen and (min-width: 1000px) {
+  .pnine__img--index img{
+    width: 70%;
+    margin: 0;
+    margin-right: 0;
+  }
+  .pnine__index--all{
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
 /* **CSS BURGER BUTTON**
 label{
   display:flex;
