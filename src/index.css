@@ -24,16 +24,6 @@ body{
   width: 180px;
 }
 
-.home__section:after {
-  content: "";
-  width: 100%;
-  height: 100px;
-  position:absolute;
-  background-color: red;
-  background-image: linear-gradient(180deg, #46a8f4 50%, #f5f7fc);
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(50%, #041827), to(#f5f7fc));
-}
-
 
 
 @media only screen and (min-width: 600px) {
