@@ -4,7 +4,7 @@ import IMGhome from './../../assets/cyborgearth.png'
 
 const Index = () => {
   return (
-    <div className='pnine__index--all p-6'>
+    <div className='container pnine__index--all p-6'>
       {/* <h1 className="text-4xl text-[#f89c92] font-bold tracking-wide">FUTURE.</h1> */}
       <div className='pnine__title--txt'>
         <h1 className='text-3xl md:text-4xl font-medium mt-10 mb-6 md:mt-20'>The world of technology at your fingertips</h1>
