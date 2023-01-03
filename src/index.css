@@ -35,15 +35,17 @@ body{
 
 
 @media only screen and (min-width: 1000px) {
-  .pnine__img--index img{
-    width: 50%;
+  .pnine__img--index,.pnine__img--index img{
+    width: 90%;
+    margin-right: 0;
   }
   .pnine__index--all{
     display: flex;
-    align-items: center;
+    justify-content: center;
+    margin:auto;
   }
   .pnine__title--txt {
-    width: 50%;
+    width: 60%;
   }
 }
 
