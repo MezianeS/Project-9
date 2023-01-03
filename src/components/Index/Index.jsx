@@ -9,7 +9,10 @@ const Index = () => {
         <h1 className='text-3xl font-medium mt-10 mb-6'>The world of technology at your fingertips</h1>
         <p>We believe that technology is an essential tool for innovation and progress, and we are eager to share our knowledge and enthusiasm with our online community.</p>
         <p>Join us and stay up to date on technological news!</p>
-        <img src={IMGhome} alt="test" />
+        
+        <div className='p-0 bg-gradient-to-r from-transparent to-blue-500'>
+          <img src={IMGhome} alt="Bras robotique"/>
+        </div>
 
 
         
