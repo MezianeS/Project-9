@@ -24,7 +24,7 @@ body{
   width: 180px;
 }
 
-/***CSS BURGER BUTTON***/
+/* **CSS BURGER BUTTON**
 label{
   display:flex;
    flex-direction:column;
@@ -84,7 +84,7 @@ label{
    transform: translate(30px,-11px) rotatez(45deg);
  
  }
- 
+  */
 
 /***CSS BURGER BUTTON END***/
 
