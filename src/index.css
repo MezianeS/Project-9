@@ -51,6 +51,10 @@ background: linear-gradient(180deg, rgb(0, 0, 0) 41%, rgb(19, 60, 85) 100%);
   opacity: 0.8;
 }
 
+.pnine__cta--all a:hover {
+  color: red;
+}
+
 
 
 @media only screen and (min-width: 600px) {
