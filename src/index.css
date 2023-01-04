@@ -43,16 +43,22 @@ background: linear-gradient(180deg, rgb(0, 0, 0) 41%, rgb(19, 60, 85) 100%);
   margin: 0 15px 0 15px;
   border-radius: 100%;
   text-align: center;
+  transition: transform .2s,-webkit-transform .2s;
+  transition: -webkit-transform .2s;
+  transition: transform .2s;
 }
 
 .pnine__cta--all a .cta--icons{
   margin: 8px auto;
-  color: #0c2231;
   opacity: 0.8;
+  
 }
 
 .pnine__cta--all a:hover {
-  color: red;
+  background: rgba(56,56,56,.3);
+  color: #fff;
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
 }
 
 
