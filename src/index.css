@@ -42,6 +42,10 @@ background: linear-gradient(180deg, rgb(0, 0, 0) 41%, rgb(19, 60, 85) 100%);
     width: 70%;
     margin: auto;
   }
+  .pnine__cta--all {
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 
