@@ -1,5 +1,6 @@
 import React from 'react'
 import IMGhome from './../../assets/cyborgearth.png'
+import CTA from './../CTA/CTA'
 
 
 const Index = () => {
@@ -15,8 +16,7 @@ const Index = () => {
           <img src={IMGhome} alt="Bras robotique"/>
         </div>
 
-
-        
+    <CTA />
     </div>
   )
 }

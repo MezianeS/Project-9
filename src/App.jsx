@@ -2,6 +2,7 @@ import Navbar from './components/Navbar/Navbar'
 import Index from './components/Index/Index'
 import Stats from './components/Stats/Stats'
 
+
 function App() {
   return (
     <div className="w-full overflow-hidden">
