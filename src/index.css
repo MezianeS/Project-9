@@ -36,17 +36,19 @@ background: linear-gradient(180deg, rgb(0, 0, 0) 41%, rgb(19, 60, 85) 100%);
 }
 
 .pnine__cta--all a {
-  background-color: red;
-  width: 40px;
-  height: 40px;
-  border: 2px solid #fff;
+  background: rgb(255, 255, 255, 0.9);
+  width: 44px;
+  height: 44px;
+  border: 2px solid #386FA4;
   margin: 10px;
   border-radius: 100%;
   text-align: center;
 }
 
 .pnine__cta--all a .cta--icons{
-  margin: 5px auto;
+  margin: 8px auto;
+  color: #000000;
+  opacity: 0.8;
 }
 
 

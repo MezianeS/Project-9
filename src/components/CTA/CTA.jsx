@@ -5,9 +5,9 @@ const CTA = () => {
   return (
     <div>
         <div className="container pnine__cta--all flex mt-28 justify-center">
-            <a href=""><ImTwitter size={24} className="cta--icons" /></a>
-            <a href=""><FiInstagram size={24} className="cta--icons"/></a>
-            <a href=""><ImFacebook size={24} className="cta--icons"/></a>
+            <a href=""><ImTwitter size={22} className="cta--icons" /></a>
+            <a href=""><FiInstagram size={22} className="cta--icons"/></a>
+            <a href=""><ImFacebook size={22} className="cta--icons"/></a>
         </div>
     </div>
   )
