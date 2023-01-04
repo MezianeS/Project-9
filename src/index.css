@@ -35,12 +35,18 @@ background: linear-gradient(180deg, rgb(0, 0, 0) 41%, rgb(19, 60, 85) 100%);
   background: rgb(19, 60, 85);
 }
 
-.pnine__cta--all > span {
+.pnine__cta--all a {
   background-color: red;
-  width: 36px;
-  height: 36px;
+  width: 40px;
+  height: 40px;
   border: 2px solid #fff;
   margin: 10px;
+  border-radius: 100%;
+  text-align: center;
+}
+
+.pnine__cta--all a .cta--icons{
+  margin: 5px auto;
 }
 
 
