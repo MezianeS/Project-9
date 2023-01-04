@@ -1,5 +1,6 @@
 import Navbar from './components/Navbar/Navbar'
 import Index from './components/Index/Index'
+import Stats from './components/Stats/Stats'
 
 function App() {
   return (
@@ -11,7 +12,7 @@ function App() {
         </div>
         <Index />
       </div>
-      Home
+      <Stats />
       Stats
       Business
       Agency
