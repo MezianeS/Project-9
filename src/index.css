@@ -35,6 +35,14 @@ background: linear-gradient(180deg, rgb(0, 0, 0) 41%, rgb(19, 60, 85) 100%);
   background: rgb(19, 60, 85);
 }
 
+.pnine__cta--all > span {
+  background-color: red;
+  width: 36px;
+  height: 36px;
+  border: 2px solid #fff;
+  margin: 10px;
+}
+
 
 
 @media only screen and (min-width: 600px) {
