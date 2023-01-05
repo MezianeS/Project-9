@@ -36,8 +36,11 @@ background: linear-gradient(180deg, rgb(0, 0, 0) 41%, rgb(19, 60, 85) 100%);
 }
 
 .container__stats--items {
-  width: 100px;
-  height: 100px;
+  min-width: 100px;
+  min-height: 100px;
+}
+.container__stats--items img {
+  height: 150px;
 }
 
 /**************CTA******************/
