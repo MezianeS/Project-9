@@ -13,13 +13,13 @@ const Stats = () => {
         <div className='flex flex-col lg:flex-row justify-center items-center mt-36 lg:p-16 lg:ml-48 lg:mr-48'>
           <div id="stats" className="container__stats--items bg-[#0C2231] m-5 border-solid border-2 rounded-lg flex flex-col justify-center items-center">
           <img src={IAicon} alt="Artificial Intelligence Brain" className='stats--items-1 pl-3 pr-3 pt-5'/>
-          <h4 className='pb-1 pt-2 font-bold text-[#91E5F6]'>AI: Artifical Intelligence</h4>
+          <h4 className='pb-1 pt-2 font-bold text-[#91E5F6]'>Artifical Intelligence</h4>
           <p className='pl-5 pr-5 pb-5 text-center'>An opportunity to reinvent oneself and advance in one's career.</p>
           </div>
           <div className="container__stats--items bg-[#0C2231] m-5 border-solid border-2 rounded-lg flex flex-col justify-center items-center">
           <img src={VrGlasses} alt="Virtual reality" className='stats--items-1 pl-3 pr-3 pt-5'/>
-          <h4 className='pb-1 pt-2 font-bold text-[#91E5F6]'>AI:Artifical Intelligence</h4>
-          <p className='pl-5 pr-5 pb-5 text-center'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo adipisci doloribus dolor delectus numquam.</p>
+          <h4 className='pb-1 pt-2 font-bold text-[#91E5F6]'>Virtual Reality</h4>
+          <p className='pl-5 pr-5 pb-5 text-center'>An innovative way to connect to the world.</p>
           </div>
           <div className="container__stats--items bg-[#0C2231] m-5 border-solid border-2 rounded-lg flex flex-col justify-center items-center">
           <img src={City} alt="Digital City" className='stats--items-1 pl-3 pr-3 pt-5'/>
