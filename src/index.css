@@ -109,7 +109,7 @@ background: linear-gradient(180deg, rgb(0, 0, 0) 41%, rgb(19, 60, 85) 100%);
     width: 60%;
   }
   .container__stats--items {
-    min-width: 450px;
+    min-width: 360px;
     min-height: 320px;
   }
   .container__stats--items img {
