@@ -85,17 +85,17 @@ background: linear-gradient(180deg, rgb(0, 0, 0) 41%, rgb(19, 60, 85) 100%);
     margin-right: auto;
   }
   .container__stats--items {
-    min-width: 450px;
     min-height: 320px;
   }
   .container__stats--items img {
     width:200px;
     height: auto;
   }
+
 }
 
 
-@media only screen and (min-width: 1000px) {
+@media only screen and (min-width: 1025px) {
   .pnine__img--index,.pnine__img--index img{
     width: 90%;
     margin-right: 0;
@@ -107,6 +107,14 @@ background: linear-gradient(180deg, rgb(0, 0, 0) 41%, rgb(19, 60, 85) 100%);
   }
   .pnine__title--txt {
     width: 60%;
+  }
+  .container__stats--items {
+    min-width: 450px;
+    min-height: 320px;
+  }
+  .container__stats--items img {
+    width:200px;
+    height: auto;
   }
 }
 
