@@ -36,12 +36,13 @@ background: linear-gradient(180deg, rgb(0, 0, 0) 41%, rgb(19, 60, 85) 100%);
 }
 
 .container__stats--items {
-  min-width: 100px;
-  min-height: 100px;
+  min-width: 280px;
+  min-height: 250px;
 }
 .container__stats--items img {
   width:40%;
 }
+
 
 /**************CTA******************/
 .pnine__cta--all a {
