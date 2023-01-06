@@ -23,8 +23,8 @@ const Stats = () => {
           </div>
           <div className="container__stats--items bg-[#0C2231] m-5 border-solid border-2 rounded-lg flex flex-col justify-center items-center">
           <img src={City} alt="Digital City" className='stats--items-1 pl-3 pr-3 pt-5'/>
-          <h4 className='pb-1 pt-2 font-bold text-[#91E5F6]'>AI:Artifical Intelligence</h4>
-          <p className='pl-5 pr-5 pb-5 text-center'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo adipisci doloribus dolor delectus numquam.</p>
+          <h4 className='pb-1 pt-2 font-bold text-[#91E5F6]'>Digital building</h4>
+          <p className='pl-5 pr-5 pb-5 text-center'>Innovation, connectivity, and progress: welcome to our digital city.</p>
           </div>
         </div>
 
