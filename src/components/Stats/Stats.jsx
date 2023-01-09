@@ -10,8 +10,8 @@ const Stats = () => {
         {/* container pour le background */}
         <div className="container__stats "></div>
         {/* container pour le background */}
-        <div className='mx-auto max-w-[1240px] items-center p-6'>
-          <h2 className='text-center mt-24 text-3xl md:text-4xl lg:text-5xl' id="services">Services</h2>
+        <div className='mx-auto max-w-[1240px] items-center p-6'  id="services">
+          <h2 className='text-center mt-24 text-3xl md:text-4xl lg:text-5xl'>Services</h2>
           <p className='mt-10 m-3 lg:ml-48 lg:mr-48 text-center'>The most talked about high tech subjects in 2021 were artificial intelligence, augmented reality and virtual reality, and the Internet of Things. These technologies have been used in various fields such as healthcare, education, entertainment, and industry.</p>
           <div className='flex flex-col lg:flex-row justify-center items-center mt-20 lg:mt-12 lg:p-16 lg:ml-48 lg:mr-48'>
             <div className="container__stats--items bg-[#0C2231] m-5 border-solid border-2 rounded-lg flex flex-col justify-center items-center">
