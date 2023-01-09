@@ -32,8 +32,8 @@ const Navbar = () => {
             <div className={nav ? 'fixed left-0 top-0 w-[60%] border-r border-r-gray-900 h-full bg-[#133C55] ease-in-out duration-500 max-[360px]:w-[70%]' : 'h-full ease-in-out duration-500 fixed left-[-100%]'}>
                 <img src="/../src/assets/logo.svg" alt="Logo Future." className='pnine__logo m-5'/>
                     <ul className='p-4 uppercase'>
-                        <li className='p-4 border-b border-[#F89C92]'><a href="#stats">Home</a></li>
-                        <li className='p-4 border-b border-[#F89C92]'><a href="#stats">Stats</a></li>
+                        <li className='p-4 border-b border-[#F89C92]'><a href="#">Home</a></li>
+                        <li className='p-4 border-b border-[#F89C92]'><a href="#services">Services</a></li>
                         <li className='p-4 border-b border-[#F89C92]'><a href="#business">Business</a></li>
                         <li className='p-4 border-b border-[#F89C92]'><a href="#agency">Agency</a></li>
                         <li className='p-4'><a href="#contact">Contact</a></li>
