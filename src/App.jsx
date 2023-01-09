@@ -11,7 +11,6 @@ function App() {
       <div className="home__section bg-primary">
         <div className="flex justify-between pl-5 p-5 px-10 mx-auto max-w-[1240px] items-center">
           <a href="#">
-            
             <img src="/../src/assets/logo.svg" alt="Logo Future." className='pnine__logo pl-0 '/>
           </a>
           <Navbar />

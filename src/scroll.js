@@ -11,9 +11,9 @@ export default function Scroll() {
         entries.forEach((entry) => {
             console.log(entry)
             if (entry.isIntersecting) {
-                entry.target.classList.add('showscroll');
+                entry.target.classList.add('show');
             } else {
-                entry.target.classList.remove('showscroll');
+                entry.target.classList.remove('show');
             }
         });
     });

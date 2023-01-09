@@ -12,7 +12,7 @@ const Navbar = () => {
   return (
     <div className='navbar__projectnine text-lg'>
         <nav className='container flex'>
-            <ul className='hidden space-x-8 lg:flex'>
+            <ul className='hidden space-x-8 lg:flex hiddenscroll'>
                 <li className='p-4'><a href="#">Home</a></li>
                 <li className='p-4'><a href="#services">Services</a></li>
                 <li className='p-4'><a href="#business">Business</a></li>
