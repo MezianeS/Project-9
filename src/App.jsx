@@ -17,7 +17,6 @@ function App() {
         <Index />
       </div>
       <Stats />
-      Stats
       Business
       Agency
       Footer
