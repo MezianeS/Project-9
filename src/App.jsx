@@ -1,11 +1,10 @@
 import Navbar from './components/Navbar/Navbar'
 import Index from './components/Index/Index'
 import Stats from './components/Stats/Stats'
-import Scroll from './scroll'
+
 
 
 function App() {
-  Scroll();
   return (
     <div className="w-full overflow-hidden scroll-smooth">
       <div className="home__section bg-primary">
