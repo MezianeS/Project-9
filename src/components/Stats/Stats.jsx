@@ -31,8 +31,6 @@ const Stats = () => {
             </div>
           </div>
         </div>
-
-        Stats
     </div>
   )
 }
