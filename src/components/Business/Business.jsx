@@ -3,13 +3,15 @@ import PlanetsImg from './../../assets/facecyborg.png'
 
 const Business = () => {
   return (
-    <div className='business__container bg-[black]'>
+    <div className='business__container bg-[black] pb-24'>
         <div className="business__container--block mx-auto max-w-[1240px] items-center p-6'">
-            <div className="business__container--text">
-                <h2 className="business__container-title text-center pt-24 text-3xl md:text-4xl lg:text-5xl font-medium">BUSINESS</h2>
-                <p className="business__container--textblock"></p>            
+            <h2 className="business__container-title text-center pt-24 text-3xl md:text-4xl lg:text-5xl font-medium">BUSINESS</h2>
+            <div className="business__container--textimg flex flex-col lg:flex-row">
+                <p className="business__container--textblock mt-10 m-3 lg:ml-48 lg:mr-48 p-10 text-center lg:text-start">
+                Our AI solution for businesses automates sales forecasting processes to improve your company's performance. Integrated with inventory management system to optimize product availability. Enhances customer experience by personalizing offers. Contact us to learn more about the benefits for your business.
+                </p>
+                <img src={PlanetsImg} alt="Earth cyborg face" className='business__content--img p-10' />            
             </div>
-            <img src={PlanetsImg} alt="" className='business__content--img' />
         </div>
 
         
