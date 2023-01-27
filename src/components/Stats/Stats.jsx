@@ -6,9 +6,9 @@ import VrGlasses from './../../assets/vr-glasses.png'
 
 const Stats = () => {
   return (
-    <div className='pnine__stats--all '>
+    <div className='pnine__stats--all pb-24'>
         {/* container pour le background */}
-        <div className="container__stats "></div>
+        <div className="container__stats"></div>
         {/* container pour le background */}
         <div className='mx-auto max-w-[1240px] items-center p-6'  id="services">
           <h2 className='text-center mt-24 text-3xl md:text-4xl lg:text-5xl font-medium'>Services</h2>
