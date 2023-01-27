@@ -1,6 +1,7 @@
 import Navbar from './components/Navbar/Navbar'
 import Index from './components/Index/Index'
 import Stats from './components/Stats/Stats'
+import Business from './components/Business/Business'
 
 
 
@@ -17,7 +18,7 @@ function App() {
         <Index />
       </div>
       <Stats />
-      Business
+      <Business />
       Agency
       Footer
     </div>
