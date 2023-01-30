@@ -2,6 +2,7 @@ import Navbar from './components/Navbar/Navbar'
 import Index from './components/Index/Index'
 import Stats from './components/Stats/Stats'
 import Business from './components/Business/Business'
+import Agency from './components/Agency/Agency'
 
 
 
@@ -19,7 +20,7 @@ function App() {
       </div>
       <Stats />
       <Business />
-      Agency
+      <Agency />
       Footer
     </div>
   )
