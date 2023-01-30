@@ -14,9 +14,7 @@ const Business = () => {
                 </p>
                 <img src={PlanetsImg} alt="Earth cyborg face" className='business__content--img p-10' />            
             </div>
-        </div>
-
-        
+        </div>        
     </div>
   )
 }
