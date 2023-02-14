@@ -4,9 +4,9 @@ const Map
  = () => {
   return (
     <div className='agency__container--cartebis'>
-      <div className='text-[black]'>Find our agency in Paris:</div>
-        <div className='text-[black] flex flex-col '>
-            <address className='align-items: center;'>
+        <div className='text-[black] flex flex-col'>
+            <address className='justify-items-center'>
+              <span>Find our agency in Paris:</span>
               7 Av. du General Lemmonier
               <br />
               75001, Paris
