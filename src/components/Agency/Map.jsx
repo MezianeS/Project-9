@@ -5,8 +5,8 @@ const Map
   return (
     <div className='agency__container--cartebis'>
         <div className='text-[black] flex flex-col'>
+          <div className='font-semibold'>Find our agency in Paris:</div>
             <address className='justify-items-center'>
-              <span>Find our agency in Paris:</span>
               7 Av. du General Lemmonier
               <br />
               75001, Paris
